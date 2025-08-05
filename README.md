@@ -67,9 +67,9 @@ API_KEY=your_api_key
 
 ## 📸 Screenshots
 
-*(Add screenshots here if available)*
+<img width="1908" height="981" alt="Screenshot 2025-08-05 173210" src="https://github.com/user-attachments/assets/a13c7040-e387-46a7-bd3e-a7bf678ea3cb" />
+<img width="1903" height="905" alt="Screenshot 2025-08-05 173238" src="https://github.com/user-attachments/assets/b7105830-0861-4557-b473-539b604cb0dd" />
 
----
 
 ## 📄 License
 
