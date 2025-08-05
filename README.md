@@ -60,7 +60,7 @@ Create a `.env` file in the root directory and add the following variables:
 ```env
 PORT=8000
 MONGO_URI=your_mongo_connection_string
-API_KEY=your_api_key
+jwt_secret="secret"
 ```
 
 ---
